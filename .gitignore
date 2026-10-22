@@ -23,3 +23,7 @@ Release/
 .vscode/
 *.suo
 *.user
+
+# Claude Code personal (non-shared) settings
+.claude/settings.local.json
+CLAUDE.local.md
